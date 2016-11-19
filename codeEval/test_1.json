@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "header": "menu",
+    "items": [
+      {
+        "id": 66,
+        "label": "Label 66"
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 71,
+        "label": "Label 71"
+      },
+      {
+        "id": 48
+      },
+      {
+        "id": 68
+      },
+      null,
+      {
+        "id": 41,
+        "label": "Label 41"
+      },
+      {
+        "id": 63
+      }
+    ]
+  }
+}
