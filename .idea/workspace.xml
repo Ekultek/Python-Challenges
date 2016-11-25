@@ -2,6 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14956e4b-5f27-4a5e-adff-567d69b6919d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/avrg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/banner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/change_password.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/channel.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/char_count.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/ascii.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/ascii_input.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/beautify.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/brainfuck.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/challenge_strings.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/comp.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/dupes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/fizzbuzz.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/input.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/lower.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/multi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/multi2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/multi_table.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/multiples.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/num2word.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/numbers.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/rev_word.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/searches.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/seq.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/size.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/string_perms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/strings_strings.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/sub.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/sum_cal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/terminal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/test_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/test_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/test_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/test_nums.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeEval/words.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeeval/cap_words.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeeval/roman.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeeval/unique.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/codeeval/writer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/decrypt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/email_val.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guess_bitch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/password.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/passwords.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/peak.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perm_string.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/results.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/score.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/search_letters.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec_chars.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/story.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/username.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zip_file.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="length_banner.iws" />
@@ -23,12 +80,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cap_words.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codeEval/cap_words.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy_challenges/roman_numerals/readme.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -48,15 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/codeval/num2word.py" />
-        <option value="$PROJECT_DIR$/codeval/seq.txt" />
-        <option value="$PROJECT_DIR$/codeval/sub.py" />
-        <option value="$PROJECT_DIR$/codeval/brainfuck_example.txt" />
-        <option value="$PROJECT_DIR$/codeval/brainfuck_interpreter.py" />
-        <option value="$PROJECT_DIR$/codeval/longeset_word.py" />
-        <option value="$PROJECT_DIR$/codeval/longest_word.py" />
-        <option value="$PROJECT_DIR$/codeval/brainfuck.py" />
-        <option value="$PROJECT_DIR$/codeval/ascii_input.txt" />
         <option value="$PROJECT_DIR$/codeval/ascii.py" />
         <option value="$PROJECT_DIR$/codeval/fizzbuzz.py" />
         <option value="$PROJECT_DIR$/codeval/numbers.txt" />
@@ -99,6 +153,15 @@
         <option value="$PROJECT_DIR$/codeEval/black_spot.py" />
         <option value="$PROJECT_DIR$/codeEval/writer.py" />
         <option value="$PROJECT_DIR$/codeEval/bit_torrent_decryption.py" />
+        <option value="$PROJECT_DIR$/fizzbuzz/readme.md" />
+        <option value="$PROJECT_DIR$/sum_of_primes/readme.md" />
+        <option value="$PROJECT_DIR$/reverse_words/readme.md" />
+        <option value="$PROJECT_DIR$/multiples_of_a_number/readme.md" />
+        <option value="$PROJECT_DIR$/lowercase/readme.md" />
+        <option value="$PROJECT_DIR$/multiples.py" />
+        <option value="$PROJECT_DIR$/sum_of_digits/readme.md" />
+        <option value="$PROJECT_DIR$/find_a_writer/readme.md" />
+        <option value="$PROJECT_DIR$/roman_numerals/readme.md" />
       </list>
     </option>
   </component>
@@ -139,42 +202,172 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="challenges" />
+              <option name="myItemId" value="python-challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="challenges" />
+              <option name="myItemId" value="python-challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="challenges" />
+              <option name="myItemId" value="python-challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="challenges" />
+              <option name="myItemId" value="python-challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="challenges" />
+              <option name="myItemId" value="python-challenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="codeEval" />
+              <option name="myItemId" value="easy_challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sum_of_primes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy_challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sum_of_digits" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy_challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="roman_numerals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy_challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reverse_words" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy_challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multiples_of_a_number" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy_challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lowercase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy_challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fizzbuzz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easy_challenges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="find_a_writer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,16 +376,16 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thomas_j_perkins\bin\python\python-challenges\text_files" />
+      <recent name="C:\Users\thomas_j_perkins\bin\python\python-challenges\working_on_these" />
+      <recent name="C:\Users\thomas_j_perkins\bin\python\python-challenges\easy_challenges" />
+      <recent name="C:\Users\thomas_j_perkins\bin\python\python-challenges\find_a_writer" />
+      <recent name="C:\Users\thomas_j_perkins\bin\python\python-challenges\roman_numerals" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\thomas_j_perkins\bin\python\challenges" />
       <recent name="C:\Users\thomas_j_perkins\bin\python\challenges\terri_tool" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\thomas_j_perkins\bin\python\challenges\codeEval" />
-      <recent name="C:\Users\thomas_j_perkins\bin\python\challenges\codeval" />
-      <recent name="C:\Users\thomas_j_perkins\bin\python\challenges\terri_tool" />
-      <recent name="C:\Users\thomas_j_perkins\bin\python\challenges" />
-      <recent name="C:\Users\thomas_j_perkins\bin\python\challenges\password_validator" />
     </key>
   </component>
   <component name="RunManager">
@@ -423,16 +616,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39097744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39688507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25140923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -463,57 +656,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/codeval/brainfuck.py" />
-    <entry file="file://$PROJECT_DIR$/decrypt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/change_password.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="71" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeval/ascii_input.txt" />
-    <entry file="file://$PROJECT_DIR$/codeval/ascii.py" />
-    <entry file="file://$PROJECT_DIR$/codeval/lower.py" />
-    <entry file="file://$PROJECT_DIR$/codeval/numbers.txt" />
-    <entry file="file://$PROJECT_DIR$/codeval/fizzbuzz.py" />
-    <entry file="file://$PROJECT_DIR$/codeval/multi_table.py" />
-    <entry file="file://$PROJECT_DIR$/codeEval/size.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/codeEval/menu.json" />
-    <entry file="file://$PROJECT_DIR$/codeEval/test_2.json">
+    <entry file="file://$PROJECT_DIR$/text_files/json_files/test_2.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/test_3.json">
+    <entry file="file://$PROJECT_DIR$/text_files/json_files/test_3.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/sum_cal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/test_1.json">
+    <entry file="file://$PROJECT_DIR$/text_files/json_files/test_1.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
@@ -523,17 +681,10 @@
     <entry file="file://$PROJECT_DIR$/codeEval/beauts.txt" />
     <entry file="file://$PROJECT_DIR$/codeEval/arrow.py" />
     <entry file="file://$PROJECT_DIR$/hackerRank/1st.py" />
-    <entry file="file://$PROJECT_DIR$/codeEval/comp.txt">
+    <entry file="file://$PROJECT_DIR$/text_files/comp.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/multiples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -541,35 +692,28 @@
     <entry file="file://$PROJECT_DIR$/codeEval/right_most.py" />
     <entry file="file://$PROJECT_DIR$/euler/1.py" />
     <entry file="file://$PROJECT_DIR$/euler/2.py" />
-    <entry file="file://$PROJECT_DIR$/codeEval/numbers.txt">
+    <entry file="file://$PROJECT_DIR$/text_files/numbers.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/ascii.py">
+    <entry file="file://$PROJECT_DIR$/working_on_these/ascii.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/dupes.py">
+    <entry file="file://$PROJECT_DIR$/working_on_these/dupes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/multi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/terminal.py">
+    <entry file="file://$PROJECT_DIR$/working_on_these/terminal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
@@ -597,49 +741,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/multi2.py">
+    <entry file="file://$PROJECT_DIR$/easy_challenges/multiples_of_a_number/multi2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/beautify.py">
+    <entry file="file://$PROJECT_DIR$/working_on_these/beautify.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/string_perms.py">
+    <entry file="file://$PROJECT_DIR$/working_on_these/string_perms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/searches.txt">
+    <entry file="file://$PROJECT_DIR$/text_files/searches.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/strings_strings.txt">
+    <entry file="file://$PROJECT_DIR$/text_files/strings_strings.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/search.py">
+    <entry file="file://$PROJECT_DIR$/working_on_these/search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/test_nums.txt">
+    <entry file="file://$PROJECT_DIR$/text_files/test_nums.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
@@ -648,7 +792,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codeEval/greek_numerals.txt" />
     <entry file="file://$PROJECT_DIR$/codeEval/roman_numerals.txt" />
-    <entry file="file://$PROJECT_DIR$/codeEval/roman.py">
+    <entry file="file://$PROJECT_DIR$/easy_challenges/roman_numerals/roman.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -656,7 +800,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codeEval/longest_line.py" />
-    <entry file="file://$PROJECT_DIR$/codeEval/unique.py">
+    <entry file="file://$PROJECT_DIR$/working_on_these/unique.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -664,29 +808,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider.py" />
-    <entry file="file://$PROJECT_DIR$/codeEval/input.txt">
+    <entry file="file://$PROJECT_DIR$/text_files/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="114" selection-start-line="0" selection-start-column="114" selection-end-line="0" selection-end-column="114" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/data.txt">
+    <entry file="file://$PROJECT_DIR$/text_files/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/black_spot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codeEval/writer.py">
+    <entry file="file://$PROJECT_DIR$/codeEval/black_spot.py" />
+    <entry file="file://$PROJECT_DIR$/easy_challenges/find_a_writer/writer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
@@ -694,11 +831,191 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/codeEval/bit_torrent_decryption.py" />
-    <entry file="file://$PROJECT_DIR$/codeEval/cap_words.py">
+    <entry file="file://$PROJECT_DIR$/working_on_these/cap_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <marker date="1480111427911" expanded="false" signature="0:20" ph="import ..." />
+            <marker date="1480111427911" expanded="true" signature="45:221" ph="..." />
+            <marker date="1480111427911" expanded="true" signature="126:221" ph="..." />
+            <marker date="1480111427911" expanded="true" signature="250:368" ph="..." />
+            <marker date="1480111427911" expanded="true" signature="286:368" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/fizzbuzz/readme.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="165" selection-start-line="2" selection-start-column="165" selection-end-line="2" selection-end-column="165" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/sum_of_primes/sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480111427890" expanded="true" signature="39:191" ph="..." />
+            <marker date="1480111427890" expanded="true" signature="83:191" ph="..." />
+            <marker date="1480111427890" expanded="true" signature="111:191" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/sum_of_primes/readme.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="73" selection-start-line="0" selection-start-column="73" selection-end-line="0" selection-end-column="73" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/reverse_words/readme.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="62" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/multiples_of_a_number/multi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <marker date="1480111427855" expanded="true" signature="32:241" ph="..." />
+            <marker date="1480111427855" expanded="true" signature="101:241" ph="..." />
+            <marker date="1480111427855" expanded="true" signature="270:453" ph="..." />
+            <marker date="1480111427855" expanded="true" signature="306:453" ph="..." />
+            <marker date="1480111427855" expanded="true" signature="344:453" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/multiples_of_a_number/readme.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="161" selection-start-line="0" selection-start-column="161" selection-end-line="0" selection-end-column="161" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/lowercase/lower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480111427852" expanded="true" signature="39:147" ph="..." />
+            <marker date="1480111427852" expanded="true" signature="83:147" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/lowercase/readme.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working_on_these/sum_cal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1480111427892" expanded="false" signature="0:22" ph="import ..." />
+            <marker date="1480111427892" expanded="true" signature="49:150" ph="..." />
+            <marker date="1480111427892" expanded="true" signature="178:280" ph="..." />
+            <marker date="1480111427892" expanded="true" signature="219:280" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/sum_of_digits/multiples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <marker date="1480112200424" expanded="true" signature="37:63" ph="..." />
+            <marker date="1480112200424" expanded="true" signature="92:267" ph="..." />
+            <marker date="1480112200424" expanded="true" signature="151:237" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/sum_of_digits/readme.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="65" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/find_a_writer/readme.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="220" selection-start-line="2" selection-start-column="220" selection-end-line="2" selection-end-column="220" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_challenges/roman_numerals/readme.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
