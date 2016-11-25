@@ -1,0 +1,1 @@
+Given a positive integer, find the sum of its constituent digits.
